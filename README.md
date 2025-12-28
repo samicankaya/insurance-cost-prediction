@@ -21,9 +21,6 @@ This project utilizes Machine Learning (Linear Regression) to predict annual med
 3. Run the application:
    ```bash
    python main.py
-
-
-   
 [TR]
 # Sağlık Sigortası Fiyat Tahmin Modeli
 
