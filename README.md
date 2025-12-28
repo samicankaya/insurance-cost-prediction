@@ -12,7 +12,7 @@ This project utilizes Machine Learning (Linear Regression) to predict annual med
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/samicankaya/insurance-cost-prediction.git](https://github.com/samicankaya/insurance-cost-prediction.git)
+   git clone https://github.com/samicankaya/insurance-cost-prediction.git
 
 2. Install the required libraries:
       ```bash
@@ -35,7 +35,7 @@ Bu proje, Makine Öğrenmesi (Lineer Regresyon) kullanarak bireylerin yaş, cins
 
 1. Repoyu klonlayın:
    ```bash
-   git clone [https://github.com/samicankaya/insurance-cost-prediction.git](https://github.com/samicankaya/insurance-cost-prediction.git)
+   git clone https://github.com/samicankaya/insurance-cost-prediction.git
 
 2. Gerekli kütüphaneleri yükleyin:
    ```bash
