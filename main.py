@@ -108,5 +108,5 @@ print(f"| {'TAHMİNİ FİYAT':<20} | {fiyat_tahmini:,.2f} $ {'':<11} |")
 print("="*50)
 
 print("\n(Grafik açık. Kapatmak için Enter'a basabilirsin...)")
-# input() sayesinde kod bitmez ve grafik ekranda kalır
+
 input()
